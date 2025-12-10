@@ -24,7 +24,8 @@ To analyze the store’s 2022 sales data and create a clear dashboard that helps
 
 -Percentage of Total Orders delivered
 
--Dashboard Interaction <a href="https://github.com/devenatkari2004/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-10%20185109.png?raw=true">View Dashboard</a>
+-Dashboard Interaction <a href="<img width="1612" height="633" alt="Screenshot 2025-12-10 185109" src="https://github.com/user-attachments/assets/b813c197-2ea6-4f35-95eb-50b35836b047" />
+">View Dashboard</a>
 
 ## Process
 I checked the data for missing values and errors, corrected any inconsistencies, and ensured the dataset was clean and properly formatted. After this, I built pivot tables as per the analysis requirements and integrated them into one interactive dashboard, enhancing it further with slicers for dynamic filtering.
