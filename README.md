@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed an end-to-end data analysis project using Microsoft Excel. The project involved preprocessing raw data, performing data cleaning operations, organizing information into well-structured tables, and creating dynamic dashboards that highlight important trends and insights.
+# Vrinda Store Data Analysis (Interactive Excel Dashboard)
+## Project Objective
+To analyze the store’s 2022 sales data and create a clear dashboard that helps the owner understand customers better and improve sales in the next years.
