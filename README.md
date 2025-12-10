@@ -30,4 +30,4 @@ Dashboard Interaction View Dashboard
 I checked the data for missing values and errors, corrected any inconsistencies, and ensured the dataset was clean and properly formatted. After this, I built pivot tables as per the analysis requirements and integrated them into one interactive dashboard, enhancing it further with slicers for dynamic filtering.
 
 ## Dashboard
-https://github.com/devenatkari2004/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-10%20185109.png
+https://github.com/devenatkari2004/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-10%20185109.png?raw=true
